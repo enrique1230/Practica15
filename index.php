@@ -13,7 +13,7 @@
    <section class="wrapper">
     <header>
       <h1 class="logo"><a href="index.html">Practica15</a></h1>
-      <h1>Nombre y número de control</h1>
+      <h1>Luis Enrique Flores Rodriguez  NC:21091002</h1>
     </header>
 <section id="contenedor">
 <section  class="problema">
